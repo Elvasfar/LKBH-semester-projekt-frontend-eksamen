@@ -1,7 +1,7 @@
 "use strict";
 
 //Endpoint
-const endpoint = "https://lkbh-semester-projekt-backend.azurewebsites.net";
+const endpoint = "https://localhost:3333";
 
 // ===== IMPORTS ===== \\
 import { login } from "./controller/login.js";
